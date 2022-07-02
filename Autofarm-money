@@ -1,1 +1,2 @@
-game.Players.LocalPlayer:kick("Use the new script. https://discord.gg/25UYvgTCUr")
+game.Players.LocalPlayer:kick("Script Moved to https://discord.gg/BFRnq8aJ87")
+setclipboard("https://discord.gg/BFRnq8aJ87")
